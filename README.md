@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-till-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Slow Dance Till Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-till-midnight/) |
+| **Get License** | [Music Rights & Licensing for Slow Dance Till Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-till-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Let the fire burn down to the embers
+> Pull your body a little closer to mine
+> I just want a night we will remember
+> Leaving every other worry far behind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
