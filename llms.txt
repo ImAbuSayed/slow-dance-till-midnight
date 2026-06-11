@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-till-midnight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Slow Dance Till Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-till-midnight/) |
+| **Get License** | [Request Licensing for Slow Dance Till Midnight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-till-midnight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3079)
 
 ---
 
